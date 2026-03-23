@@ -1,15 +1,22 @@
-## Projects
+# Cybersecurity Projects
 
-### 1. Active Directory Home Lab
+## Active Directory Home Lab
 - Installed Windows Server
-- Configured AD, DNS, DHCP
-- Created users and GPOs
+- Configured Active Directory, DNS, DHCP
+- Created users, groups, and Group Policy
+- Simulated a corporate network environment
 
-### 2. Vulnerability Scanning Lab
-- Used Nessus
-- Found vulnerabilities
-- Created remediation report
+## Wireshark Network Analysis Lab
+- Captured network packets
+- Analyzed TCP/IP traffic
+- Detected suspicious traffic patterns
 
-### 3. Wireshark Network Analysis
-- Captured packets
-- Detected suspicious traffic
+## Vulnerability Scanning Lab
+- Used Nessus vulnerability scanner
+- Identified system vulnerabilities
+- Created a remediation report
+
+## Splunk SIEM Lab
+- Installed Splunk
+- Ingested log data
+- Created dashboards and alerts for suspicious activity
